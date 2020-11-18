@@ -12,6 +12,7 @@ public class App {
         float note1 = sc.nextFloat();
         System.out.print("Entrez le nom de l'apprenant 2 : ");
         String name2 = sc.nextLine();
+        name2 = sc.nextLine();
         System.out.print("Entrez la note de " + name2 + " : ");
         float note2 = sc.nextFloat();
 
