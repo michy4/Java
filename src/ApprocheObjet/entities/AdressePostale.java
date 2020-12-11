@@ -1,10 +1,10 @@
 package ApprocheObjet.entities;
 
 public class AdressePostale {
-    private int numeroRue;
-    private String libelleRue;
-    private int codePostal;
-    private String ville;
+    public int numeroRue;
+    public String libelleRue;
+    public int codePostal;
+    public String ville;
 
     public AdressePostale()
     {

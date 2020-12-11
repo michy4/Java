@@ -1,9 +1,9 @@
 package ApprocheObjet.entities;
 
 public class Personne {
-    private String nom;
-    private String prenom;
-    private AdressePostale adresse;
+    public String nom;
+    public String prenom;
+    public AdressePostale adresse;
 
     public Personne()
     {
