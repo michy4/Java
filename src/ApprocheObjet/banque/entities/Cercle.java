@@ -1,4 +1,4 @@
-package fr.diginamic.banque.entities;
+package ApprocheObjet.banque.entities;
 
 public class Cercle implements ObjetGeometrique{
 

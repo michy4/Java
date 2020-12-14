@@ -1,10 +1,10 @@
-package fr.diginamic.banque;
+package ApprocheObjet.banque;
 
-import fr.diginamic.banque.entities.Compte;
-import fr.diginamic.banque.entities.CompteTaux;
-import fr.diginamic.banque.entities.Credit;
-import fr.diginamic.banque.entities.Debit;
-import fr.diginamic.banque.entities.Operation;
+import ApprocheObjet.banque.entities.Compte;
+import ApprocheObjet.banque.entities.CompteTaux;
+import ApprocheObjet.banque.entities.Credit;
+import ApprocheObjet.banque.entities.Debit;
+import ApprocheObjet.banque.entities.Operation;
 
 public class TestBanque {
     public static void main(String[] args) {

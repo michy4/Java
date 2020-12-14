@@ -1,6 +1,6 @@
-package fr.diginamic.banque;
+package ApprocheObjet.banque;
 
-import fr.diginamic.banque.entities.*;
+import ApprocheObjet.banque.entities.*;
 
 public class TestObjetGeometrique {
     public static void main(String[] args) {

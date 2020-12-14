@@ -1,4 +1,4 @@
-package fr.diginamic.banque.entities;
+package ApprocheObjet.banque.entities;
 
 /** Liste les méthodes obligatoires que doit posséder un objet géométrique
  * @author DIGINAMIC
