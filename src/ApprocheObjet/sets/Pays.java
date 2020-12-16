@@ -1,6 +1,8 @@
 package ApprocheObjet.sets;
 
-public class Pays {
+import java.util.Collection;
+
+public class Pays implements Comparable<Pays> {
 
     public String nom;
     public int nbHab;
@@ -13,4 +15,14 @@ public class Pays {
         this.pibHab=pibHab;
     }
 
+    @Override
+    public int compareTo(Pays o) {
+        return this.nom.compareTo(o.nom);
+
+        //if(o.pibHab<this.pibHab)
+        //{
+        //    return 1;
+        //}
+        //return -1;
+    }
 }

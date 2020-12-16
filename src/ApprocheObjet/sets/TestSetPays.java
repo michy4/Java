@@ -8,7 +8,7 @@ public class TestSetPays {
         tests.add(new Pays("USA",328200000,62794));
         tests.add(new Pays("France",66990000,41463));
         tests.add(new Pays("Allemagne",83020000,47603));
-        tests.add(new Pays("UK",7000000,42943));
+        tests.add(new Pays("UK",66650000,42943));
         tests.add(new Pays("Italie",60360000,34483));
         tests.add(new Pays("Japon",126500000,39289));
         tests.add(new Pays("Chine",1393000000,9770));
